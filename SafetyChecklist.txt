@@ -1,0 +1,1438 @@
+
+----------------------------------------------
+Checklist Number: 1
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Adam
+Date                     : 8/2/2024
+Manager                  : Sandy
+Remote work site address : No. 12, Jalan Meranti 2, Taman Seri Damai, 40100 Shah Alam, Selangor
+Description of work area : Backend Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 11
+    Total number of No : 11
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 2
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Leo
+Date                     : 15/7/2024
+Manager                  : Kyle
+Remote work site address : No. 25, Lorong Bukit Raya, Taman Sejahtera, 43000 Kajang, Selangor
+Description of work area : Frontend Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 16
+    Total number of No : 6
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace has several issues that should be addressed before it can be considered suitable.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 3
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Ramli
+Date                     : 9/12/2024
+Manager                  : Tan
+Remote work site address : No. 8, Jalan Indah 4/5, Taman Bukit Indah, 47100 Puchong, Selangor
+Description of work area : Full-Stack Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 11
+    Total number of No : 11
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 4
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : James
+Date                     : 9/1/2024
+Manager                  : Sam
+Remote work site address : No. 35, Jalan Kenanga 3, Bandar Botanic, 41200 Klang, Selangor
+Description of work area : Mobile App Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 9
+    Total number of No : 13
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 5
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Steven
+Date                     : 1/9/2024
+Manager                  : Tom
+Remote work site address : No. 57, Lorong Bunga Raya 2, Taman Sri Gombak, 68100 Batu Caves, Selangor
+Description of work area : Devops Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 13
+    Total number of No : 9
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 6
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Andy
+Date                     : 4/7/2024
+Manager                  : Thomas
+Remote work site address : No. 19, Jalan Mawar 1, Taman Bukit Subang, 40150 Shah Alam, Selangor
+Description of work area : Data Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 14
+    Total number of No : 8
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 7
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Alice
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 11, Jalan Teratai 9/12, Taman Setia Indah, 47800 Petaling Jaya, Selangor
+Description of work area : Machine Learning Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 6
+    Total number of No : 16
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 8
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Mike
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 22, Jalan Desa Jaya, Taman Desa Murni, 48000 Rawang, Selangor
+Description of work area : Quality Assurance (QA) Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 9
+    Total number of No : 13
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 9
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Tommy
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 30, Jalan Perdana 3, Taman Seri Perdana, 43300 Seri Kembangan, Selangor
+Description of work area : Embedded Systems Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 22
+    Total number of No : 0
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is fully suitable for remote work.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 10
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Jack
+Date                     : 16/12/2024
+Manager                  : Jackson
+Remote work site address : No. 18, Jalan Puteri 2/3, Bandar Puteri, 47110 Puchong, Selangor
+Description of work area : Cybersecurity Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 0
+    Total number of No : 22
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 11
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Sarah
+Date                     : 13/3/2024
+Manager                  : Adonia
+Remote work site address : No. 42, Jalan Cempaka 2, Taman Cempaka, 68000 Ampang, Selangor
+Description of work area : Cloud Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 4
+    Total number of No : 18
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 12
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Kyle
+Date                     : 9/6/2024
+Manager                  : Berry
+Remote work site address : No. 14, Jalan Dahlia 1, Taman Dahlia, 43400 Serdang, Selangor
+Description of work area : Game Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 16
+    Total number of No : 6
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace has several issues that should be addressed before it can be considered suitable.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 13
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Ben
+Date                     : 13/9/2024
+Manager                  : Kat
+Remote work site address : No. 9, Jalan Anggerik 7, Taman Sri Anggerik, 43100 Hulu Langat, Selangor
+Description of work area : AI/ML Ops Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 11
+    Total number of No : 11
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 14
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Carol
+Date                     : 2/9/2024
+Manager                  : Kyle
+Remote work site address : No. 26, Jalan Melati 5, Taman Melawati, 53100 Ampang, Selangor
+Description of work area : Database Administration
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 5
+    Total number of No : 17
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 15
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Ethan
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 33, Jalan Mutiara 3, Taman Mutiara, 43500 Bangi, Selangor
+Description of work area : APIs and Microservices Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 0
+    Total number of No : 22
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 16
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : George
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 20, Jalan Kemuning 4, Taman Kemuning, 42600 Jenjarom, Selangor
+Description of work area : Web Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          Yes
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 10
+    Total number of No : 12
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 17
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Helen
+Date                     : 1/9/2024
+Manager                  : Thomaty
+Remote work site address : No. 44, Jalan Bunga Melur, Taman Sri Melur, 45600 Bestari Jaya, Selangor
+Description of work area : Software Architecture
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  No 
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   No 
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           Yes
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       No 
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 11
+    Total number of No : 11
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 18
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Joyce
+Date                     : 5/9/2024
+Manager                  : Dan
+Remote work site address : No. 10, Jalan Berlian 6, Taman Berlian, 47500 Subang Jaya, Selangor
+Description of work area : Automation Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          Yes
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  No 
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               No 
+
+(15) Are first aid supplies readily accessible and adequate?                                                  Yes
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       Yes
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          Yes
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 14
+    Total number of No : 8
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 19
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Mary
+Date                     : 1/9/2024
+Manager                  : Kyle
+Remote work site address : No. 15, Jalan Seroja 2, Taman Seroja, 45000 Kuala Selangor, Selangor
+Description of work area : Blockchain Development
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              Yes
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         No 
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                Yes
+
+(4) Is electrical system adequate for office equipment?                                                       No 
+
+(5) Is electrical equipment grounded?                                                                         No 
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              No 
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      Yes
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                Yes
+
+(17) Desk: 29  high?                                                                                          No 
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 Yes
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                Yes
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 11
+    Total number of No : 11
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+----------------------------------------------
+Checklist Number: 20
+----------------------------------------------
+
+Home Office Safety Checklist
+
+Employee                 : Kevin
+Date                     : 6/3/2024
+Manager                  : Aylin
+Remote work site address : No. 31, Lorong Mawar 4, Taman Mawar, 41000 Klang, Selangor
+Description of work area : Technical Support Engineering
+
+----------------------------------------------------------------------------------------------------------------------
+Question                                                                                                      Answer
+----------------------------------------------------------------------------------------------------------------------
+
+(1) Is the work space free from excessive noise?                                                              No 
+
+(2) Is adequate lighting (side or rear) provided at the work station?                                         Yes
+
+(3) Is all electrical equipment free of recognized hazards that could cause physical harm
+     (frayed wires running through walls, exposed wires fixed to the ceiling)?                                No 
+
+(4) Is electrical system adequate for office equipment?                                                       Yes
+
+(5) Is electrical equipment grounded?                                                                         Yes
+
+(6) Are surge protectors properly installed?                                                                  Yes
+
+(7) Are aisles, doorways and floors free of obstructions to permit visibility and movement?                   Yes
+
+(8) Is there an exit that allows prompt exiting?                                                              Yes
+
+(9) Are phone lines, electrical cords and extension wires secured under a desk or along a baseboard?          No 
+
+(10) Is the office space neat and clean?                                                                      No 
+
+(11) Is a working fire extinguisher located nearby?                                                           No 
+
+(12) Are working smoke detectors installed at the work site?                                                  Yes
+
+(13) Is the work area private and free of intrusion?                                                          No 
+
+(14) Are files and data secure?                                                                               Yes
+
+(15) Are first aid supplies readily accessible and adequate?                                                  No 
+
+(16) Are office furniture and equipment ergonomically correct?                                                No 
+
+(17) Desk: 29  high?                                                                                          Yes
+
+(18) Chairs: Sturdy and adjustable (90  at knees, feet flat on floor, 15  back tilt)
+     with backrest and casters appropriate for floor surface?                                                 No 
+
+(19) Keyboard: In line with wrist and forearm position?                                                       No 
+
+(20) Monitor: 20-14  from eyes: Top of screen slightly below eye level?                                       Yes
+
+(21) Are work materials and equipment in a secure place that can be protected from damage or misuse?          No 
+
+(22) Are there security requirements in place to protect confidentiality and security of
+     company information and computer systems?                                                                No 
+
+----------------------------------------------------------------------------------------------------------------------
+    Total number of Yes: 10
+    Total number of No : 12
+----------------------------------------------------------------------------------------------------------------------
+    Summary: The workspace is currently not suitable for remote work due to significant safety concerns.
+----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,888 @@
+
+WORK LOG - ENTRY 1
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Aisyah Rahman           +60 12-345 6789          01/09/2024          Human Resources     Mr. Ahmad Sulaiman
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 10:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied    -                   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 4
+Non-Productive Tasks : 1
+Total Number of Task Completed: 5
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Amazing!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 2
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Daniel Tan              +60 19-876 5432          02/09/2024          Finance             Ms. Nora Idris
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+Content Creation                             21:00       23:00       02:00     Complete       Revisions needed
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 16:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+Content Creation              Creative        3             3              Yes            highly productive             somewhat satisfied   - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 8
+Non-Productive Tasks : 2
+Total Number of Task Completed: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 3
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Siti Nurhaliza          +60 11-223 3445          03/09/2024          IT                  Rebecca Tan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 5:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth         
+     
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 2
+Non-Productive Tasks : 0
+Total Number of Task Completed: 2
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Relaxing Day!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 4
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Mei Ling                +60 11-9876 5432         04/09/2024          HR                  James Koh
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 07:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 2
+Non-Productive Tasks : 1
+Total Number of Task Completed: 3
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic Day!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 5
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Zainal Hassan           +60 17-6543 2109         05/09/2024          Finance             Emily Lau
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 11:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 5
+Non-Productive Tasks : 1
+Total Number of Task Completed: 6
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 6
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Kavitha Rani            +60 19-7654 3210         06/09/2024          Legal               Mohan Raj
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+Content Creation                             21:00       23:00       02:00     Complete       Revisions needed
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 16:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+Content Creation              Creative        3             3              Yes            highly productive             somewhat satisfied   - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 8
+Non-Productive Tasks : 2
+Total Number of Task Completed: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 7
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Ahmad Zaki              +60 14-3210 9876         07/09/2024          Operations          Sophia Lee
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 02:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 1
+Non-Productive Tasks : 0
+Total Number of Task Completed: 1
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 8
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Priya Menon             +60 12-6543 2109         08/09/2024          Customer Service    Farhan Ali
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 13:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 6
+Non-Productive Tasks : 2
+Total Number of Task Completed: 8
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 9
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Wei Chong               +60 18-4321 0987         09/09/2024          R&D                 Lisa Ng
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 12:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 6
+Non-Productive Tasks : 1
+Total Number of Task Completed: 7
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Great!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 10
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Nurul Ain              +60 15-7890 1234          10/09/2024          Procurement         Kenneth Lim
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+Content Creation                             21:00       23:00       02:00     Complete       Revisions needed
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 16:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+Content Creation              Creative        3             3              Yes            highly productive             somewhat satisfied   - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 8
+Non-Productive Tasks : 2
+Total Number of Task Completed: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 11
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Amirul Shah             +60 13-4567 8901         11/09/2024          Logistics           Ms. Fiona Tan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 08:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 3
+Non-Productive Tasks : 1
+Total Number of Task Completed: 4
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 12
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Samantha Ng             +60 16-5432 1098         12/09/2024          Engineering         Jason Chan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 12:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth       
+       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 6
+Non-Productive Tasks : 1
+Total Number of Task Completed: 7
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Amazing!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 13
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Rajesh Kumar            +60 19-3210 9876         13/09/2024          Quality Control     Ms. Christine Lee
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 08:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+ 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 3
+Non-Productive Tasks : 1
+Total Number of Task Completed: 4
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Relaxing Day!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 14
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Siti Mariam             +60 14-7654 3210         14/09/2024          Admin               Mr. Kelvin Tan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+Content Creation                             21:00       23:00       02:00     Complete       Revisions needed
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 16:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+Content Creation              Creative        3             3              Yes            highly productive             somewhat satisfied   - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 8
+Non-Productive Tasks : 2
+Total Number of Task Completed: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 15
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Lee Wei Ling            +60 12-8765 4321         02/09/2024          Product Management  Mr. Gerald Ong
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 07:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 2
+Non-Productive Tasks : 1
+Total Number of Task Completed: 3
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 16
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT             SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Bryan Teoh              +60 17-2345 6789         16/09/2024          Business Development   Karen Lim     
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 12:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 6
+Non-Productive Tasks : 1
+Total Number of Task Completed: 9
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 17
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Farah Nadia             +60 18-5432 1098         17/09/2024          Public Relations    Ms. Alice Wong
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 14:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 7
+Non-Productive Tasks : 2
+Total Number of Task Completed: 9
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 18
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Desmond Koh             +60 13-9876 5432         18/09/2024          IT Security         Samuel Tan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 08:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 3
+Non-Productive Tasks : 1
+Total Number of Task Completed: 4
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 19
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Anis Syuhada            +60 15-6543 2109         19/09/2024          Digital Marketing   Edwin Lee
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+Market Research                              15:00       16:00       01:00     Complete       Data challenges
+Product Development                          16:00       17:00       01:00     In Progress    Minor issues
+Customer Support                             18:00       19:00       01:00     Complete       Resolved
+Budget Planning                              20:00       21:00       01:00     Not Started    -
+Content Creation                             21:00       23:00       02:00     Complete       Revisions needed
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 16:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+Market Research               Research        5             1              Yes            highly productive             very satisfied       -                   
+Product Development           Development     5             1              Yes            highly productive             very satisfied       Smooth              
+Customer Support              Support         5             4              No             could have been better        not satisfied        easily distracted   
+Budget Planning               Planning        5             5              Yes            highly productive             very satisfied       Smooth              
+Content Creation              Creative        3             3              Yes            highly productive             somewhat satisfied   - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 8
+Non-Productive Tasks : 2
+Total Number of Task Completed: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+WORK LOG - ENTRY 20
+------------------------------------------------------------------------------------------------------------------
+NAME                    CONTACT                  TODAY'S DATE        DEPARTMENT          SUPERVISOR
+------------------------------------------------------------------------------------------------------------------
+Kevin Wong              +60 11-7890 1234         20/09/2024          Supply Chain        Mr. Henry Tan
+
+------------------------------------------------------------------------------------------------------------------
+ACTIVITY                                     START TIME  END TIME    TOTAL     STATUS         NOTES
+------------------------------------------------------------------------------------------------------------------
+Client Meeting                               00:00       02:00       02:00     Complete       The meeting went well
+Report Writing                               02:00       05:00       03:00     In Progress    Struggling
+Team Collaboration                           08:00       10:00       02:00     Complete       Productive
+System Maintenance                           11:00       12:00       01:00     Complete       Implemented smoothly
+Training Session                             13:00       15:00       02:00     Not Started    -
+
+------------------------------------------------------------------------------------------------------------------
+Total Scheduled Time : 10:00
+------------------------------------------------------------------------------------------------------------------
+
+
+Productivity Tracking
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ACTIVITY                      CATEGORY        FOCUS LEVEL   DISTRACTIONS   PRODUCTIVE?    EVALUATION                    SATISFACTION          FEEDBACK
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Client Meeting                Meetings        5             1              Yes            highly productive             very satisfied       -                   
+Report Writing                Documentation   5             1              Yes            highly productive             very satisfied       Smooth              
+Team Collaboration            Meetings        5             4              No             could have been better        not satisfied        easily distracted   
+System Maintenance            IT Support      5             5              Yes            highly productive             very satisfied       Smooth              
+Training Session              Training        3             3              Yes            highly productive             somewhat satisfied   -                   
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Productive Tasks     : 4
+Non-Productive Tasks : 1
+Total Number of Task Completed: 5
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall Experience : Fantastic Day!
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
